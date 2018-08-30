@@ -28,4 +28,4 @@ Run the following command to destroy all the credentials files that were created
 
 ## How to use
 
-check ./example
+check example dir that include example for https client/server and GRpc WithTransportCredentials client/server
